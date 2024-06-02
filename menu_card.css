@@ -1,8 +1,6 @@
 body {
   font-family: Arial, sans-serif;
   justify-content: center;
-  align-items: center;
-  align-content: center;
 
 }
 .container{
@@ -57,14 +55,14 @@ h2{
   color: rgb(180, 161, 161);
 }
 .bottom-section{
-  height: 700px;
+  height: 200px;
   width: 900px;
   background-color: white;
   margin-top: -10px;
   display: flex;
 }
 .left-section{
-  height: 700px;
+  height: 200px;
   width: 450px;
   background-color: white;
   display: flex;
@@ -143,7 +141,7 @@ h4{
 
 
 .right-section{
-  height: 700px;
+  height: 400px;
   width: 450px;
   background-color: white;
   display: flex;
