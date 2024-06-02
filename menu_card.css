@@ -5,6 +5,7 @@ body {
 .container{
   width: 900px;
   background-color: rgb(252, 252, 252);
+  margin-left:100px;
 }
 .top_menu {
   height: 100px;
